@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "81bc3cc9a29c25d249d6881d9e4f04d0",
+    "revision": "94c072bd418d12cdc648741f0bac02fe",
     "url": "/Cocktails-Project/index.html"
   },
   {
-    "revision": "e8b92ac538777b1b67d0",
+    "revision": "aeb14962f11a7402d3a4",
     "url": "/Cocktails-Project/static/css/main.0a967299.chunk.css"
   },
   {
-    "revision": "733d6bc7ee5bfdab501f",
-    "url": "/Cocktails-Project/static/js/2.ff662081.chunk.js"
+    "revision": "bd98d98f25fdbcf9d6c0",
+    "url": "/Cocktails-Project/static/js/2.3c8d7d13.chunk.js"
   },
   {
     "revision": "0c91d6cf6408089b81f706ebde51ebe6",
-    "url": "/Cocktails-Project/static/js/2.ff662081.chunk.js.LICENSE.txt"
+    "url": "/Cocktails-Project/static/js/2.3c8d7d13.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e8b92ac538777b1b67d0",
-    "url": "/Cocktails-Project/static/js/main.d62104d3.chunk.js"
+    "revision": "aeb14962f11a7402d3a4",
+    "url": "/Cocktails-Project/static/js/main.37c40c59.chunk.js"
   },
   {
     "revision": "5eb7ea3e91500172a0be",
