@@ -1,4 +1,4 @@
-## Cocktail Project
+# Cocktail Project
 
 ## Project setup
 
@@ -10,4 +10,10 @@ npm install
 
 ```
 npm start
+```
+
+### Live link
+
+```
+https://SaykotRayhan.github.io/Cocktails-Project
 ```
